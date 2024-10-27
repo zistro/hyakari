@@ -10,3 +10,5 @@ I tried to get 5 centimeters per second sakura aesthetics in hyprland.
 You will need mpvpaper [link](https://github.com/GhostNaN/mpvpaper)
 
 Any other dependency you'll need is well explained here [simple-hyprland link](https://github.com/gaurav210233/simple-hyprland)
+
+If you feel that the mp4 quality is bad (I needed to compress it twice to upload it on github) here is the link where I originally got it from [link](https://moewalls.com/anime/akari-shinohara-cherry-blossom-road-5-centimeters-per-second-live-wallpaper/)
